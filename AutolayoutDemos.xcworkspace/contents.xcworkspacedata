@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:DynamicButtons/DynamicButtons.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TableViewSelfSize/TableViewSelfSize.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AdaptiveLayout/AdaptiveLayout.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ProgramConstraints/ProgramConstraints.xcodeproj">
+   </FileRef>
+</Workspace>
